@@ -63,3 +63,8 @@ tBodyGyroMean
 tBodyGyroJerkMean
 
 The complete list of variables of each feature vector is available in 'features.txt'
+
+======================================
+
+Please note that the values in the final dataset are the average of each variable for each activity and each subject.
+
